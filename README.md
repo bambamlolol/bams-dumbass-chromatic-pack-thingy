@@ -1,7 +1,15 @@
 # bams dumbass chromatic pack thingy
- chromatics made using utau 
- or fl studio!!!!111
+
+ 
+ # INFO
+   Essentially, these are chromatic scales i made, using FL Studio or UTAU, thats, basically it lmao, more are to come soon!
+   
+   
+   
+   
+
+# CREDITS
+ UTAU Voicebanks - Blantados And GenoX
  
  
- (CREDITS TO GENOX AND BLANTADOS FOR THEIR UTAU VOICE BANKS)
- too lazy to make actual descripton
+ Shaggy & Shaggy BF - Adriozer
