@@ -2,14 +2,8 @@
 
  
  # INFO
-   Essentially, these are chromatic scales i made, using FL Studio or UTAU, thats, basically it lmao, more are to come soon!
-   
-   
-   
-   
+  Chromatics I Made in my freetime, all the old ones i made are in the archive folder, if you want them for some unknown reason
 
 # CREDITS
  UTAU Voicebanks - Blantados And GenoX
- 
- 
  Shaggy & Shaggy BF - Adriozer
